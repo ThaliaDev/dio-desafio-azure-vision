@@ -1,0 +1,1449 @@
+[
+    {
+      "linhas": [
+        {
+          "text": "· Levar o aluno a perceber alguns erros de",
+          "boundingPolígono": [
+            {
+              "x": 37,
+              "você": 13
+            },
+            {
+              "x": 579,
+              "s": 14
+            },
+            {
+              "x": 579,
+              "você": 41
+            },
+            {
+              "x": 37,
+              "você": 39
+            }
+          ],
+          "palavras": [
+            {
+              "texto": "·",
+              "boundingPolígono": [
+                {
+                  "x": 38,
+                  "s": 15
+                },
+                {
+                  "x": 51,
+                  "s": 15
+                },
+                {
+                  "x": 51,
+                  "você": 37
+                },
+                {
+                  "x": 38,
+                  "você": 37
+                }
+              ],
+              "confiança": 0.739
+            },
+            {
+              "texto": "Levar",
+              "boundingPolígono": [
+                {
+                  "x": 60,
+                  "s": 15
+                },
+                {
+                  "x": 132,
+                  "s": 14
+                },
+                {
+                  "x": 132,
+                  "você": 39
+                },
+                {
+                  "x": 60,
+                  "você": 37
+                }
+              ],
+              "confiança": 0.994
+            },
+            {
+              "texto": "o",
+              "boundingPolígono": [
+                {
+                  "x": 139,
+                  "s": 14
+                },
+                {
+                  "x": 152,
+                  "s": 14
+                },
+                {
+                  "x": 152,
+                  "você": 39
+                },
+                {
+                  "x": 139,
+                  "você": 39
+                }
+              ],
+              "confiança": 0.998
+            },
+            {
+              "texto": "aluno",
+              "boundingPolígono": [
+                {
+                  "x": 163,
+                  "s": 14
+                },
+                {
+                  "x": 230,
+                  "s": 14
+                },
+                {
+                  "x": 230,
+                  "s": 40
+                },
+                {
+                  "x": 163,
+                  "você": 39
+                }
+              ],
+              "confiança": 0.996
+            },
+            {
+              "texto": "uma",
+              "boundingPolígono": [
+                {
+                  "x": 241,
+                  "s": 14
+                },
+                {
+                  "x": 254,
+                  "s": 14
+                },
+                {
+                  "x": 254,
+                  "você": 41
+                },
+                {
+                  "x": 240,
+                  "s": 40
+                }
+              ],
+              "confiança": 0.997
+            },
+            {
+              "texto": "perceber",
+              "boundingPolígono": [
+                {
+                  "x": 264,
+                  "s": 14
+                },
+                {
+                  "x": 375,
+                  "s": 14
+                },
+                {
+                  "x": 375,
+                  "você": 41
+                },
+                {
+                  "x": 264,
+                  "você": 41
+                }
+              ],
+              "confiança": 0.995
+            },
+            {
+              "texto": "alguns",
+              "boundingPolígono": [
+                {
+                  "x": 383,
+                  "s": 14
+                },
+                {
+                  "x": 465,
+                  "s": 14
+                },
+                {
+                  "x": 465,
+                  "você": 41
+                },
+                {
+                  "x": 382,
+                  "você": 41
+                }
+              ],
+              "confiança": 0.995
+            },
+            {
+              "texto": "erros",
+              "boundingPolígono": [
+                {
+                  "x": 474,
+                  "s": 14
+                },
+                {
+                  "x": 538,
+                  "s": 14
+                },
+                {
+                  "x": 537,
+                  "s": 40
+                },
+                {
+                  "x": 474,
+                  "você": 41
+                }
+              ],
+              "confiança": 0.995
+            },
+            {
+              "texto": "de",
+              "boundingPolígono": [
+                {
+                  "x": 547,
+                  "s": 14
+                },
+                {
+                  "x": 575,
+                  "s": 14
+                },
+                {
+                  "x": 575,
+                  "s": 40
+                },
+                {
+                  "x": 546,
+                  "s": 40
+                }
+              ],
+              "confiança": 0.999
+            }
+          ]
+        },
+        {
+          "text": "traçado comum entre as crianças e",
+          "boundingPolígono": [
+            {
+              "x": 60,
+              "você": 38
+            },
+            {
+              "x": 509,
+              "você": 39
+            },
+            {
+              "x": 509,
+              "você": 64
+            },
+            {
+              "x": 60,
+              "s": 62
+            }
+          ],
+          "palavras": [
+            {
+              "texto": "traçado",
+              "boundingPolígono": [
+                {
+                  "x": 61,
+                  "você": 39
+                },
+                {
+                  "x": 153,
+                  "você": 39
+                },
+                {
+                  "x": 153,
+                  "você": 63
+                },
+                {
+                  "x": 60,
+                  "s": 62
+                }
+              ],
+              "confiança": 0.573
+            },
+            {
+              "texto": "comuns",
+              "boundingPolígono": [
+                {
+                  "x": 164,
+                  "você": 39
+                },
+                {
+                  "x": 261,
+                  "você": 39
+                },
+                {
+                  "x": 261,
+                  "você": 64
+                },
+                {
+                  "x": 163,
+                  "você": 63
+                }
+              ],
+              "confiança": 0.997
+            },
+            {
+              "texto": "entre",
+              "boundingPolígono": [
+                {
+                  "x": 270,
+                  "você": 39
+                },
+                {
+                  "x": 334,
+                  "você": 39
+                },
+                {
+                  "x": 334,
+                  "você": 64
+                },
+                {
+                  "x": 270,
+                  "você": 64
+                }
+              ],
+              "confiança": 0.998
+            },
+            {
+              "texto": "como",
+              "boundingPolígono": [
+                {
+                  "x": 345,
+                  "você": 39
+                },
+                {
+                  "x": 374,
+                  "você": 39
+                },
+                {
+                  "x": 374,
+                  "você": 64
+                },
+                {
+                  "x": 345,
+                  "você": 64
+                }
+              ],
+              "confiança": 0.988
+            },
+            {
+              "texto": "crianças",
+              "boundingPolígono": [
+                {
+                  "x": 382,
+                  "você": 39
+                },
+                {
+                  "x": 485,
+                  "você": 39
+                },
+                {
+                  "x": 485,
+                  "você": 64
+                },
+                {
+                  "x": 382,
+                  "você": 64
+                }
+              ],
+              "confiança": 0.597
+            },
+            {
+              "texto": "e",
+              "boundingPolígono": [
+                {
+                  "x": 494,
+                  "você": 39
+                },
+                {
+                  "x": 506,
+                  "s": 40
+                },
+                {
+                  "x": 506,
+                  "você": 64
+                },
+                {
+                  "x": 494,
+                  "você": 64
+                }
+              ],
+              "confiança": 0.995
+            }
+          ]
+        },
+        {
+          "text": "refletir sobre eles. Fazer a atividade de",
+          "boundingPolígono": [
+            {
+              "x": 61,
+              "você": 61
+            },
+            {
+              "x": 583,
+              "você": 61
+            },
+            {
+              "x": 583,
+              "você": 87
+            },
+            {
+              "x": 61,
+              "você": 87
+            }
+          ],
+          "palavras": [
+            {
+              "texto": "refletir",
+              "boundingPolígono": [
+                {
+                  "x": 62,
+                  "s": 62
+                },
+                {
+                  "x": 159,
+                  "você": 61
+                },
+                {
+                  "x": 159,
+                  "você": 86
+                },
+                {
+                  "x": 62,
+                  "s": 85
+                }
+              ],
+              "confiança": 0.994
+            },
+            {
+              "texto": "sobre",
+              "boundingPolígono": [
+                {
+                  "x": 168,
+                  "você": 61
+                },
+                {
+                  "x": 242,
+                  "você": 61
+                },
+                {
+                  "x": 241,
+                  "você": 87
+                },
+                {
+                  "x": 168,
+                  "você": 87
+                }
+              ],
+              "confiança": 0.994
+            },
+            {
+              "texto": "eles.",
+              "boundingPolígono": [
+                {
+                  "x": 254,
+                  "você": 61
+                },
+                {
+                  "x": 323,
+                  "você": 61
+                },
+                {
+                  "x": 322,
+                  "s": 88
+                },
+                {
+                  "x": 254,
+                  "s": 88
+                }
+              ],
+              "confiança": 0.996
+            },
+            {
+              "texto": "Fazer",
+              "boundingPolígono": [
+                {
+                  "x": 328,
+                  "você": 61
+                },
+                {
+                  "x": 397,
+                  "você": 61
+                },
+                {
+                  "x": 396,
+                  "s": 88
+                },
+                {
+                  "x": 328,
+                  "s": 88
+                }
+              ],
+              "confiança": 0.995
+            },
+            {
+              "texto": "uma",
+              "boundingPolígono": [
+                {
+                  "x": 406,
+                  "você": 61
+                },
+                {
+                  "x": 419,
+                  "você": 61
+                },
+                {
+                  "x": 418,
+                  "s": 88
+                },
+                {
+                  "x": 405,
+                  "s": 88
+                }
+              ],
+              "confiança": 0.995
+            },
+            {
+              "texto": "atividade",
+              "boundingPolígono": [
+                {
+                  "x": 429,
+                  "você": 61
+                },
+                {
+                  "x": 542,
+                  "você": 61
+                },
+                {
+                  "x": 541,
+                  "você": 87
+                },
+                {
+                  "x": 429,
+                  "s": 88
+                }
+              ],
+              "confiança": 0.993
+            },
+            {
+              "texto": "de",
+              "boundingPolígono": [
+                {
+                  "x": 551,
+                  "você": 61
+                },
+                {
+                  "x": 580,
+                  "você": 61
+                },
+                {
+                  "x": 580,
+                  "você": 87
+                },
+                {
+                  "x": 550,
+                  "você": 87
+                }
+              ],
+              "confiança": 0.998
+            }
+          ]
+        },
+        {
+          "text": "várias formas: coletiva, em duplas,",
+          "boundingPolígono": [
+            {
+              "x": 62,
+              "s": 85
+            },
+            {
+              "x": 505,
+              "s": 85
+            },
+            {
+              "x": 504,
+              "você": 112
+            },
+            {
+              "x": 62,
+              "s": 110
+            }
+          ],
+          "palavras": [
+            {
+              "texto": "várias",
+              "boundingPolígono": [
+                {
+                  "x": 63,
+                  "você": 86
+                },
+                {
+                  "x": 138,
+                  "você": 86
+                },
+                {
+                  "x": 137,
+                  "s": 110
+                },
+                {
+                  "x": 62,
+                  "você": 109
+                }
+              ],
+              "confiança": 0.958
+            },
+            {
+              "texto": "formas:",
+              "boundingPolígono": [
+                {
+                  "x": 145,
+                  "você": 86
+                },
+                {
+                  "x": 246,
+                  "você": 86
+                },
+                {
+                  "x": 245,
+                  "você": 112
+                },
+                {
+                  "x": 145,
+                  "s": 110
+                }
+              ],
+              "confiança": 0.994
+            },
+            {
+              "texto": "coletiva,",
+              "boundingPolígono": [
+                {
+                  "x": 253,
+                  "você": 86
+                },
+                {
+                  "x": 362,
+                  "você": 86
+                },
+                {
+                  "x": 361,
+                  "você": 113
+                },
+                {
+                  "x": 252,
+                  "você": 112
+                }
+              ],
+              "confiança": 0.994
+            },
+            {
+              "texto": "em",
+              "boundingPolígono": [
+                {
+                  "x": 367,
+                  "você": 86
+                },
+                {
+                  "x": 394,
+                  "você": 86
+                },
+                {
+                  "x": 393,
+                  "você": 113
+                },
+                {
+                  "x": 366,
+                  "você": 113
+                }
+              ],
+              "confiança": 0.998
+            },
+            {
+              "texto": "duplas,",
+              "boundingPolígono": [
+                {
+                  "x": 414,
+                  "você": 86
+                },
+                {
+                  "x": 505,
+                  "você": 86
+                },
+                {
+                  "x": 504,
+                  "você": 113
+                },
+                {
+                  "x": 413,
+                  "você": 113
+                }
+              ],
+              "confiança": 0.993
+            }
+          ]
+        },
+        {
+          "texto": "individual e com diferentes tipos de",
+          "boundingPolígono": [
+            {
+              "x": 61,
+              "você": 109
+            },
+            {
+              "x": 510,
+              "s": 110
+            },
+            {
+              "x": 510,
+              "você": 136
+            },
+            {
+              "x": 60,
+              "você": 134
+            }
+          ],
+          "palavras": [
+            {
+              "texto": "individual",
+              "boundingPolígono": [
+                {
+                  "x": 61,
+                  "s": 110
+                },
+                {
+                  "x": 185,
+                  "s": 110
+                },
+                {
+                  "x": 184,
+                  "você": 134
+                },
+                {
+                  "x": 61,
+                  "você": 133
+                }
+              ],
+              "confiança": 0.994
+            },
+            {
+              "texto": "e",
+              "boundingPolígono": [
+                {
+                  "x": 190,
+                  "s": 110
+                },
+                {
+                  "x": 203,
+                  "s": 110
+                },
+                {
+                  "x": 202,
+                  "você": 134
+                },
+                {
+                  "x": 189,
+                  "você": 134
+                }
+              ],
+              "confiança": 0.997
+            },
+            {
+              "texto": "com",
+              "boundingPolígono": [
+                {
+                  "x": 213,
+                  "s": 110
+                },
+                {
+                  "x": 254,
+                  "s": 110
+                },
+                {
+                  "x": 253,
+                  "s": 135
+                },
+                {
+                  "x": 212,
+                  "s": 135
+                }
+              ],
+              "confiança": 0.999
+            },
+            {
+              "texto": "diferentes",
+              "boundingPolígono": [
+                {
+                  "x": 274,
+                  "s": 110
+                },
+                {
+                  "x": 400,
+                  "s": 110
+                },
+                {
+                  "x": 400,
+                  "você": 136
+                },
+                {
+                  "x": 273,
+                  "s": 135
+                }
+              ],
+              "confiança": 0.994
+            },
+            {
+              "texto": "tipos",
+              "boundingPolígono": [
+                {
+                  "x": 407,
+                  "s": 110
+                },
+                {
+                  "x": 469,
+                  "s": 110
+                },
+                {
+                  "x": 469,
+                  "você": 136
+                },
+                {
+                  "x": 407,
+                  "você": 136
+                }
+              ],
+              "confiança": 0.993
+            },
+            {
+              "texto": "de",
+              "boundingPolígono": [
+                {
+                  "x": 476,
+                  "s": 110
+                },
+                {
+                  "x": 505,
+                  "s": 110
+                },
+                {
+                  "x": 505,
+                  "você": 137
+                },
+                {
+                  "x": 476,
+                  "você": 136
+                }
+              ],
+              "confiança": 0.999
+            }
+          ]
+        },
+        {
+          "texto": "textos.",
+          "boundingPolígono": [
+            {
+              "x": 60,
+              "você": 136
+            },
+            {
+              "x": 147,
+              "você": 136
+            },
+            {
+              "x": 147,
+              "s": 156
+            },
+            {
+              "x": 60,
+              "s": 156
+            }
+          ],
+          "palavras": [
+            {
+              "texto": "textos.",
+              "boundingPolígono": [
+                {
+                  "x": 61,
+                  "você": 136
+                },
+                {
+                  "x": 147,
+                  "você": 137
+                },
+                {
+                  "x": 147,
+                  "s": 156
+                },
+                {
+                  "x": 61,
+                  "você": 157
+                }
+              ],
+              "confiança": 0.994
+            }
+          ]
+        },
+        {
+          "texto": "Pedro,",
+          "boundingPolígono": [
+            {
+              "x": 105,
+              "você": 168
+            },
+            {
+              "x": 217,
+              "você": 174
+            },
+            {
+              "x": 215,
+              "você": 213
+            },
+            {
+              "x": 107,
+              "s": 210
+            }
+          ],
+          "palavras": [
+            {
+              "texto": "Pedro,",
+              "boundingPolígono": [
+                {
+                  "x": 112,
+                  "você": 168
+                },
+                {
+                  "x": 217,
+                  "você": 172
+                },
+                {
+                  "x": 215,
+                  "você": 214
+                },
+                {
+                  "x": 110,
+                  "s": 210
+                }
+              ],
+              "confiança": 0.918
+            }
+          ]
+        },
+        {
+          "text": "Se você quiser pegar",
+          "boundingPolígono": [
+            {
+              "x": 110,
+              "s": 247
+            },
+            {
+              "x": 498,
+              "s": 255
+            },
+            {
+              "x": 497,
+              "você": 291
+            },
+            {
+              "x": 110,
+              "você": 282
+            }
+          ],
+          "palavras": [
+            {
+              "texto": "Se",
+              "boundingPolígono": [
+                {
+                  "x": 121,
+                  "s": 248
+                },
+                {
+                  "x": 157,
+                  "s": 248
+                },
+                {
+                  "x": 156,
+                  "você": 282
+                },
+                {
+                  "x": 120,
+                  "você": 283
+                }
+              ],
+              "confiança": 0.839
+            },
+            {
+              "texto": "você",
+              "boundingPolígono": [
+                {
+                  "x": 173,
+                  "s": 248
+                },
+                {
+                  "x": 253,
+                  "s": 249
+                },
+                {
+                  "x": 253,
+                  "você": 283
+                },
+                {
+                  "x": 173,
+                  "você": 282
+                }
+              ],
+              "confiança": 0.963
+            },
+            {
+              "texto": "quiser",
+              "boundingPolígono": [
+                {
+                  "x": 283,
+                  "s": 250
+                },
+                {
+                  "x": 380,
+                  "s": 253
+                },
+                {
+                  "x": 379,
+                  "você": 286
+                },
+                {
+                  "x": 282,
+                  "você": 283
+                }
+              ],
+              "confiança": 0.972
+            },
+            {
+              "texto": "pegar",
+              "boundingPolígono": [
+                {
+                  "x": 401,
+                  "s": 254
+                },
+                {
+                  "x": 497,
+                  "s": 259
+                },
+                {
+                  "x": 495,
+                  "você": 291
+                },
+                {
+                  "x": 400,
+                  "você": 287
+                }
+              ],
+              "confiança": 0.985
+            }
+          ]
+        },
+        {
+          "text": "minha bicicleta,",
+          "boundingPolígono": [
+            {
+              "x": 63,
+              "você": 283
+            },
+            {
+              "x": 400,
+              "você": 286
+            },
+            {
+              "x": 399,
+              "s": 322
+            },
+            {
+              "x": 63,
+              "s": 320
+            }
+          ],
+          "palavras": [
+            {
+              "texto": "minha",
+              "boundingPolígono": [
+                {
+                  "x": 79,
+                  "s": 284
+                },
+                {
+                  "x": 191,
+                  "s": 284
+                },
+                {
+                  "x": 191,
+                  "você": 321
+                },
+                {
+                  "x": 79,
+                  "você": 321
+                }
+              ],
+              "confiança": 0.737
+            },
+            {
+              "texto": "bicicleta,",
+              "boundingPolígono": [
+                {
+                  "x": 232,
+                  "s": 285
+                },
+                {
+                  "x": 397,
+                  "s": 290
+                },
+                {
+                  "x": 398,
+                  "s": 322
+                },
+                {
+                  "x": 232,
+                  "você": 321
+                }
+              ],
+              "confiança": 0.953
+            }
+          ]
+        },
+        {
+          "text": "em Prestada, pode, mas",
+          "boundingPolígono": [
+            {
+              "x": 70,
+              "s": 320
+            },
+            {
+              "x": 468,
+              "s": 322
+            },
+            {
+              "x": 467,
+              "s": 360
+            },
+            {
+              "x": 70,
+              "s": 357
+            }
+          ],
+          "palavras": [
+            {
+              "texto": "em",
+              "boundingPolígono": [
+                {
+                  "x": 73,
+                  "s": 324
+                },
+                {
+                  "x": 117,
+                  "s": 323
+                },
+                {
+                  "x": 116,
+                  "s": 359
+                },
+                {
+                  "x": 72,
+                  "s": 358
+                }
+              ],
+              "confiança": 0.996
+            },
+            {
+              "texto": "Prestada,",
+              "boundingPolígono": [
+                {
+                  "x": 124,
+                  "s": 322
+                },
+                {
+                  "x": 288,
+                  "s": 322
+                },
+                {
+                  "x": 287,
+                  "s": 360
+                },
+                {
+                  "x": 123,
+                  "s": 359
+                }
+              ],
+              "confiança": 0.918
+            },
+            {
+              "texto": "pode",
+              "boundingPolígono": [
+                {
+                  "x": 295,
+                  "s": 322
+                },
+                {
+                  "x": 384,
+                  "s": 325
+                },
+                {
+                  "x": 384,
+                  "s": 359
+                },
+                {
+                  "x": 294,
+                  "s": 360
+                }
+              ],
+              "confiança": 0.983
+            },
+            {
+              "texto": "mas",
+              "boundingPolígono": [
+                {
+                  "x": 397,
+                  "s": 326
+                },
+                {
+                  "x": 465,
+                  "s": 330
+                },
+                {
+                  "x": 465,
+                  "s": 359
+                },
+                {
+                  "x": 396,
+                  "s": 359
+                }
+              ],
+              "confiança": 0.965
+            }
+          ]
+        },
+        {
+          "text": "precisa tomar bastante",
+          "boundingPolígono": [
+            {
+              "x": 68,
+              "s": 364
+            },
+            {
+              "x": 511,
+              "s": 356
+            },
+            {
+              "x": 512,
+              "s": 395
+            },
+            {
+              "x": 68,
+              "você": 401
+            }
+          ],
+          "palavras": [
+            {
+              "texto": "preciso",
+              "boundingPolígono": [
+                {
+                  "x": 75,
+                  "você": 368
+                },
+                {
+                  "x": 193,
+                  "s": 364
+                },
+                {
+                  "x": 193,
+                  "você": 398
+                },
+                {
+                  "x": 75,
+                  "s": 400
+                }
+              ],
+              "confiança": 0.951
+            },
+            {
+              "texto": "tomar",
+              "boundingPolígono": [
+                {
+                  "x": 211,
+                  "s": 364
+                },
+                {
+                  "x": 343,
+                  "s": 360
+                },
+                {
+                  "x": 343,
+                  "você": 396
+                },
+                {
+                  "x": 211,
+                  "você": 398
+                }
+              ],
+              "confiança": 0.988
+            },
+            {
+              "texto": "bastante",
+              "boundingPolígono": [
+                {
+                  "x": 351,
+                  "s": 360
+                },
+                {
+                  "x": 509,
+                  "s": 356
+                },
+                {
+                  "x": 510,
+                  "você": 396
+                },
+                {
+                  "x": 351,
+                  "você": 396
+                }
+              ],
+              "confiança": 0.737
+            }
+          ]
+        },
+        {
+          "text": "cuidado, tá?",
+          "boundingPolígono": [
+            {
+              "x": 69,
+              "você": 402
+            },
+            {
+              "x": 296,
+              "s": 395
+            },
+            {
+              "x": 297,
+              "você": 431
+            },
+            {
+              "x": 70,
+              "s": 435
+            }
+          ],
+          "palavras": [
+            {
+              "texto": "cuidado,",
+              "boundingPolígono": [
+                {
+                  "x": 81,
+                  "você": 403
+                },
+                {
+                  "x": 233,
+                  "você": 398
+                },
+                {
+                  "x": 233,
+                  "você": 433
+                },
+                {
+                  "x": 80,
+                  "s": 435
+                }
+              ],
+              "confiança": 0.894
+            },
+            {
+              "texto": "tá?",
+              "boundingPolígono": [
+                {
+                  "x": 240,
+                  "você": 398
+                },
+                {
+                  "x": 296,
+                  "você": 396
+                },
+                {
+                  "x": 296,
+                  "você": 431
+                },
+                {
+                  "x": 239,
+                  "você": 433
+                }
+              ],
+              "confiança": 0.983
+            }
+          ]
+        },
+        {
+          "texto": "João",
+          "boundingPolígono": [
+            {
+              "x": 475,
+              "s": 435
+            },
+            {
+              "x": 558,
+              "s": 440
+            },
+            {
+              "x": 558,
+              "s": 472
+            },
+            {
+              "x": 477,
+              "s": 470
+            }
+          ],
+          "palavras": [
+            {
+              "texto": "Jo",
+              "boundingPolígono": [
+                {
+                  "x": 476,
+                  "s": 435
+                },
+                {
+                  "x": 505,
+                  "s": 436
+                },
+                {
+                  "x": 504,
+                  "você": 471
+                },
+                {
+                  "x": 475,
+                  "você": 469
+                }
+              ],
+              "confiança": 0.963
+            },
+            {
+              "texto": "ão",
+              "boundingPolígono": [
+                {
+                  "x": 523,
+                  "s": 436
+                },
+                {
+                  "x": 559,
+                  "você": 438
+                },
+                {
+                  "x": 557,
+                  "você": 473
+                },
+                {
+                  "x": 521,
+                  "você": 471
+                }
+              ],
+              "confiança": 0.996
+            }
+          ]
+        }
+      ]
+    }
+  ]

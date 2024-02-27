@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "0eef8d8d-095f-4f59-95e4-c345b1bfb459",
+    "comprimento do conteúdo": "195",
+    "content-type": "aplicativo/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "um grupo de pessoas usando capacetes e coletes olhando para uma planta",
+      "confiança": 0.8075353503227234
+    },
+    "metadados": {
+      "largura": 650,
+      "altura": 427
+    }
+  }
